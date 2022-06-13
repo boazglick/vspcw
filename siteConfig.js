@@ -92,10 +92,10 @@ module.exports = {
   siteDescription:
     "indexparty",
   language: "he",
-  logoUrl: "logo.png",
-  iconUrl: "favicon.png",
+  logoUrl: "",
+  iconUrl: "",
   coverUrl: "cover.jpg",
-  alternateLogoUrl: "logo.png",
+  alternateLogoUrl: "",
   themeConfig: {
     variables: [
       {
