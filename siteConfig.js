@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "http://indexparty.co.il", // Site domain. Do not include a trailing slash!
+  siteUrl: "http://vspcw.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "indexparty", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "vspcw", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "indexparty", // This allows an alternative site description for meta data for pages.
+    "vspcw", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "indexparty", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "vspcw", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: true,
-    title: "indexparty",
+    title: "vspcw",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://indexparty.co.il/",
+        url: "https://vspcw.com/",
       },
       {
         label: "יצירת קשר",
-        url: "https://indexparty.co.il/contact",
+        url: "https://vspcw.com/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://indexparty.co.il/",
+        url: "https://vspcw.com/",
       },
       {
         label: "Sitemap",
-        url: "https://indexparty.co.il/sitemap.xml",
+        url: "https://vspcw.com/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://indexparty.co.il/contact",
+        url: "https://vspcw.com/contact",
       },
      
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "indexparty",
+    title: "vspcw",
     description:
-      "indexparty",
+      "vspcw",
   },
   twitterCard: {
     title: "",
@@ -88,9 +88,9 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "indexparty",
+  siteTitle: "vspcw",
   siteDescription:
-    "indexparty",
+    "vspcw",
   language: "he",
   logoUrl: "",
   iconUrl: "",
