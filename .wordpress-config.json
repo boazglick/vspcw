@@ -5,7 +5,7 @@
   "useACF": true,
   "includedRoutes": [
     "**/categories",
-    "**/**/posts",
+    "/posts",
     "**/pages",
     "**/media",
     "**/tags",
